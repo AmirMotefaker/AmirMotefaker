@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmirMotefaker
 - 👀 I’m interested in Python
-- 🌱 I'm always learning Python
+- 🌱 I'm always learning Python. My goal in learning Python is to use it in Data Science.
 - 💞️ I’m looking to collaborate on Python programming
 - 📫 How to reach me amotef@gmail.com
 
