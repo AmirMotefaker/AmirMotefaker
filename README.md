@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmirMotefaker
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 🌱 I'm always learning Python
 - 💞️ I’m looking to collaborate on Python programming
 - 📫 How to reach me amotef@gmail.com
 
