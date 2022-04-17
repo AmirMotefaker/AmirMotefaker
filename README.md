@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmirMotefaker
 - 👀 I'm always learning Python.
-- 🎯 My goal is a Data Science.
+- 🎯 My goal is Data Science.
 - 📫 How to reach me amotef@gmail.com
 
 <!---
