@@ -1,8 +1,8 @@
-# Hi, I’m @AmirMotefaker
+# Hi, I’m AmirMotefaker
 
-- 👀 I'm always learning Python.
-- 🎯 My goal is Data Science.
-- 📫 How to reach me amotef@gmail.com
+-  I'm always learning Python.
+-  My goal is Data Science.
+-  How to reach me amotef@gmail.com
 
 <!---
 AmirMotefaker/AmirMotefaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
