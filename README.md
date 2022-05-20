@@ -30,11 +30,15 @@
 
 I am a Python programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
 
- # Hi, I’m AmirMotefaker
+- :telescope: I'm always learning Python.
 
--  I'm always learning Python.
--  My goal is Data Science.
--  How to reach me amotef@gmail.com
+- :seedling: My goal is Data Science.
+
+- :zap: In my free time, I solve problems on (https://projecteuler.net/) and read tech articles in GitHub and stackoverflow.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amirmotefaker)
+ 
+
 
 <!---
 AmirMotefaker/AmirMotefaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
