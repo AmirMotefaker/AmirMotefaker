@@ -34,11 +34,10 @@ I am a Python programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :seedling: My goal is Data Science.
 
-- :zap: In my free time, I solve problems on (https://projecteuler.net/) and read tech articles in GitHub and stackoverflow.
+- :zap: In my free time, I solve problems on (https://projecteuler.net/) and read tech articles in GitHub and StackOverflow.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amirmotefaker)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirmotefaker)
  
-
 
 <!---
 AmirMotefaker/AmirMotefaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
