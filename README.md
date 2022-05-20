@@ -1,4 +1,8 @@
-# Hi, I’m AmirMotefaker
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100"/>
+</div>
+
+ # Hi, I’m AmirMotefaker
 
 -  I'm always learning Python.
 -  My goal is Data Science.
