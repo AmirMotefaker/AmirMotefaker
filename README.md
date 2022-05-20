@@ -24,6 +24,9 @@
 
 </div>
 
+---
+
+### :technologist: About Me :
 
  # Hi, I’m AmirMotefaker
 
