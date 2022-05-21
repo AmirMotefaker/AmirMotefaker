@@ -34,7 +34,7 @@ I am a Python programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :seedling: My goal is Data Science.
 
-- :zap: In my free time, I solve problems on (https://projecteuler.net/) and read tech articles on GitHub and StackOverflow.
+- :zap: In my free time, I solve problems on (https://projecteuler.net/) and read repositories on GitHub and Q&A on StackOverflow.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirmotefaker)
  
