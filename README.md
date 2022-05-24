@@ -37,11 +37,23 @@
 </div>
 
 ---
-
+<!---
 ### :technologist: About Me :
+--->
 
-I am a Python programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
 
+### About Me :
+I am a Python programmer from Iran.
+
+- I'm always learning Python.
+
+- My goal is Data Science.
+
+- In my free time, I solve problems on (https://projecteuler.net/) and read repositories on GitHub and Q&A on StackOverflow.
+
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirmotefaker)
+
+<!---
 - :telescope: I'm always learning Python.
 
 - :seedling: My goal is Data Science.
@@ -49,10 +61,14 @@ I am a Python programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :zap: In my free time, I solve problems on (https://projecteuler.net/) and read repositories on GitHub and Q&A on StackOverflow.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirmotefaker)
+--->
+
  
 ---
-
+<!---
 ### :hammer_and_wrench: Languages and Tools :
+--->
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="anaconda" alt="anaconda" width="40" height="40"/>&nbsp;
@@ -64,8 +80,11 @@ I am a Python programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 ---
-
+<!---
 ### :fire: My Stats :
+--->
+
+### My Stats :
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirMotefaker&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMotefaker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
