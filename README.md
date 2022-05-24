@@ -1,3 +1,15 @@
+<!---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirMotefaker&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmirMotefaker&repo=ProjectEuler)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmirMotefaker&repo=mycode)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMotefaker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AmirMotefaker)](https://github.com/anuraghazra/github-readme-stats)
+--->
+
+
+
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200"/>
 </div>
@@ -55,10 +67,13 @@ I am a Python programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My Stats :
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirMotefaker&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMotefaker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amirmotefaker&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirmotefaker&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+--->
 
 <!---
 AmirMotefaker/AmirMotefaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
