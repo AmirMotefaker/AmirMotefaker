@@ -10,8 +10,13 @@
 
 
 
-<div id="header" align="center">
+<!--- <div id="header" align="center">
   <img src="https://media1.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200"/>
+</div>
+--->
+
+<div id="header" align="center">
+  <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" width="200"/>
 </div>
 
 <!--- <div id="badges">
@@ -32,9 +37,10 @@
 </h1>
 --->
 
-<div align="center">
+<!--- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+--->
 
 </div>
 
