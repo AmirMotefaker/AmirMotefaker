@@ -92,6 +92,8 @@ I am a Python programmer from Iran.
 ### :fire: My Stats :
 --->
 
+
+<!---
 ### My Stats :
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirMotefaker&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
