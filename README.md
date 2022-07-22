@@ -51,7 +51,7 @@
 
 
 ### About Me :
-I am a Python programmer from Iran.
+I am a Python developer from Iran.
 
 - I'm always learning Python.
 
