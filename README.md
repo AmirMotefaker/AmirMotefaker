@@ -17,6 +17,7 @@
 
 <div id="header" align="center">
   <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" width="200"/>
+  <img src="https://www.r-project.org/logo/Rlogo.svg" width="200"/>
 </div>
 
 <!--- <div id="badges">
