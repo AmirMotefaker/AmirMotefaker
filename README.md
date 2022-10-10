@@ -52,9 +52,9 @@
 
 
 ### About Me :
-I am a Python developer from Iran.
+I am a Python & R developer from Iran.
 
-- I'm always learning Python.
+- I'm always learning Python and R.
 
 - My goal is Data Science.
 
