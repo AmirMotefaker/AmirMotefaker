@@ -52,7 +52,7 @@
 
 
 ### About Me :
-I am a Python & R developer from Iran.
+I am a Junior Python & R Developer from Iran.
 
 - I'm always learning Python and R.
 
