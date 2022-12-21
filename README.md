@@ -56,7 +56,7 @@ I am a Junior Python & R Developer from Iran.
 
 - I'm always learning Python and R.
 
-- My goal is Data Science.
+- My goal is initially to become a good Data Analyst and eventually a Data Scientist.
 
 - In my free time, I solve problems on (https://projecteuler.net/) and read repositories on GitHub and Q&A on StackOverflow.
 
