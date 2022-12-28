@@ -54,7 +54,7 @@
 ### About Me :
 I am a Junior Python & R Developer from Iran.
 
-- I'm always learning Python and R.
+- I'm always learning programming Python, R, and mathematics.
 
 - My goal is initially to become a good Data Analyst and eventually a Data Scientist.
 
