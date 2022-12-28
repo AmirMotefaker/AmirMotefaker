@@ -67,7 +67,7 @@ I am a Junior Python & R Developer from Iran.
 
 - :seedling: My goal is Data Science.
 
-- :zap: In my free time, I solve problems on (https://projecteuler.net/) and read repositories on GitHub and Q&A on StackOverflow.
+- :zap: In my spare time, I read repositories on GitHub and Q&A on Stack Overflow.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirmotefaker)
 --->
