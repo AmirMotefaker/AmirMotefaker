@@ -58,9 +58,11 @@ I am a Junior Python & R Developer from Iran.
 
 - My goal is initially to become a good Data Analyst and eventually a Data Scientist.
 
-- In my free time, I read repositories on GitHub and Q&A on Stack Overflow..
+- In my free time, I read repositories on GitHub and Q&A on Stack Overflow.
 
+<!---
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirmotefaker)
+--->
 
 <!---
 - :telescope: I'm always learning Python.
