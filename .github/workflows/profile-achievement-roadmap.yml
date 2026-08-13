@@ -1,0 +1,50 @@
+name: Profile achievement roadmap validation
+
+on:
+  pull_request:
+    branches:
+      - main
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-achievement-roadmap-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          persist-credentials: false
+
+      - name: Validate roadmap evidence
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          test -f evidence/github-achievement-roadmap-2026.md
+
+          grep -Fq '# GitHub Achievement Roadmap 2026' evidence/github-achievement-roadmap-2026.md
+          grep -Fq '## Anti-farming policy' evidence/github-achievement-roadmap-2026.md
+          grep -Fq '### Pull Shark' evidence/github-achievement-roadmap-2026.md
+          grep -Fq '### Starstruck' evidence/github-achievement-roadmap-2026.md
+          grep -Fq '### Pair Extraordinaire' evidence/github-achievement-roadmap-2026.md
+          grep -Fq '### Galaxy Brain' evidence/github-achievement-roadmap-2026.md
+
+          if grep -R -n -E \
+            --exclude-dir=.git \
+            'gho_[A-Za-z0-9]{20,}|github_pat_[A-Za-z0-9_]{20,}|sk-[A-Za-z0-9_-]{20,}' .; then
+            echo 'Potential secret found.'
+            exit 1
+          fi
+
+          git diff --check
